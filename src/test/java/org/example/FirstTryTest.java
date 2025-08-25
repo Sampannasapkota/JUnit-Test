@@ -24,5 +24,4 @@ class FirstTryTest {
         String result= obj1.number(-6);
         Assertions.assertEquals("Sorry!",result);
     }
-
 }
