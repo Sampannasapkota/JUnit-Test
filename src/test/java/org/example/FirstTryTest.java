@@ -18,7 +18,6 @@ class FirstTryTest {
         String result= obj1.number(2);
         Assertions.assertEquals("Sorry!",result);
     }
-
     @Test
     void numberNegativeTest(){
         FirstTry obj1= new FirstTry();
